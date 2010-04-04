@@ -10,6 +10,10 @@
 
 @implementation MovieViewController
 
+- (IBAction)edit {
+	NSLog(@"edit method invoked");
+}
+
 
 
 /*

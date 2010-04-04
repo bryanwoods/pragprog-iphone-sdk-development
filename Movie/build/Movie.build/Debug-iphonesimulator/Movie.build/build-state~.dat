@@ -1,0 +1,256 @@
+TMovie
+v7
+r0
+t292104401.155363
+cCheck dependencies
+cProcessInfoPlistFile /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Info.plist Movie-Info.plist
+cCompileXIB /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MainWindow.xib
+cCompileXIB /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MovieViewController.xib
+cProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie_Prefix-dksedcxphazbbmctcxldbeysfziv/Movie_Prefix.pch.gch Movie_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/main.o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/MovieAppDelegate.o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/MovieViewController.o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Movie normal i386
+cGenerateDSYMFile /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app.dSYM /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Movie
+cTouch /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieAppDelegate.h
+c000000004BB8EF9200000000000001D1
+t1270411154
+s465
+i<UIKit/UIKit.h>
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieAppDelegate.m
+c000000004BB8EF920000000000000297
+t1270411154
+s663
+i"MovieAppDelegate.h"
+i"MovieViewController.h"
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieViewController.h
+c000000004BB8F05500000000000000F9
+t1270411349
+s249
+i<UIKit/UIKit.h>
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieViewController.m
+c000000004BB8F14000000000000005E5
+t1270411584
+s1509
+i"MovieViewController.h"
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MainWindow.xib
+c000000004BB8EF920000000000002636
+t1270411154
+s9782
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MovieViewController.xib
+c000000004BB8F09C000000000000477E
+t1270411420
+s18302
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Movie_Prefix.pch
+c000000004BB8EF9200000000000000B3
+t1270411154
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app
+t1270411601
+s238
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app.dSYM
+t1270411601
+s102
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Info.plist
+t1270411599
+s585
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/MainWindow.nib
+t1270411599
+s1506
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Movie
+t1270411601
+s19764
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/MovieViewController.nib
+t1270411599
+s2028
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/PkgInfo
+t1270411599
+s8
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/Movie.LinkFileList
+c000000004BB8F14F00000000000001CE
+t1270411599
+s462
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/MovieAppDelegate.o
+t1270411600
+s38128
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/MovieViewController.o
+t1270411600
+s30488
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/main.o
+t1270411600
+s6004
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/main.m
+c000000004BB8EF920000000000000165
+t1270411154
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie_Prefix-dksedcxphazbbmctcxldbeysfziv/Movie_Prefix.pch.gch
+t1270411600
+s13026768
+
+NMovie-Info.plist
+c000000004BB8EF92000000000000038D
+t1270411154
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292104399#292104399#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/MovieAppDelegate.o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292104400.611499
+e292104400.733715
+r1
+xCompileC
+xbuild/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/MovieAppDelegate.o
+x/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieAppDelegate.m292104400#292104400#0(0"0(0#0#92"/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieAppDelegate.m4300911832#2210"    cd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-generated-files.hmap -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-project-headers.hmap -F/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/include -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/DerivedSources/i386 -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie_Prefix-dksedcxphazbbmctcxldbeysfziv/Movie_Prefix.pch -c /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieAppDelegate.m -o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/MovieAppDelegate.o0#
+
+CCompileC build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/MovieViewController.o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292104400.707341
+e292104400.766598
+r1
+xCompileC
+xbuild/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/MovieViewController.o
+x/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieViewController.m292104400#292104400#0(0"0(0#0#95"/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieViewController.m4300911832#2216"    cd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-generated-files.hmap -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-project-headers.hmap -F/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/include -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/DerivedSources/i386 -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie_Prefix-dksedcxphazbbmctcxldbeysfziv/Movie_Prefix.pch -c /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Classes/MovieViewController.m -o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/MovieViewController.o0#
+
+CCompileC build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/main.o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292104400.610089
+e292104400.707166
+r1
+xCompileC
+xbuild/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/main.o
+x/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/main.m292104400#292104400#0(0"0(0#0#72"/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/main.m4300911832#2178"    cd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-generated-files.hmap -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-project-headers.hmap -F/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/include -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/DerivedSources/i386 -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/DerivedSources -include /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie_Prefix-dksedcxphazbbmctcxldbeysfziv/Movie_Prefix.pch -c /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/main.m -o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MainWindow.xib
+s292104399.188727
+e292104399.489036
+r1
+xCompileXIB
+x/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292104399#292104399#0(0"0(0#0#80"/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MainWindow.xib4300911832#623"    cd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/MainWindow.nib /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MainWindow.xib0#
+
+CCompileXIB /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MovieViewController.xib
+s292104399.213020
+e292104399.550063
+r1
+xCompileXIB
+x/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MovieViewController.xib
+lSLF07#2@34"CompileXIB MovieViewController.xib292104399#292104399#0(0"0(0#0#89"/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MovieViewController.xib4300911832#641"    cd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/MovieViewController.nib /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/MovieViewController.xib0#
+
+CGenerateDSYMFile /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app.dSYM /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Movie
+s292104401.101537
+e292104401.118153
+r1
+xGenerateDSYMFile
+x/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app.dSYM
+x/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Movie
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Movie.app.dSYM build/Debug-iphonesimulator/Movie.app/Movie292104401#292104401#0(0"0(0#0#109"/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Movie4300911832#520"    cd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Movie -o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app.dSYM0#
+
+CLd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Movie normal i386
+s292104400.766701
+e292104401.101430
+r1
+xLd
+x/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Movie
+xnormal
+xi386
+lSLF07#2@114"Link /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Movie292104400#292104401#0(0"0(0#0#0"4300911832#1051"    cd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator -F/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator -filelist /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Objects-normal/i386/Movie.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Movie0#
+
+CProcessInfoPlistFile /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Info.plist Movie-Info.plist
+s292104399.152606
+e292104399.188653
+r1
+xProcessInfoPlistFile
+x/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Info.plist
+xMovie-Info.plist
+lSLF07#2@24"Process Movie-Info.plist292104399#292104399#0(0"0(0#0#82"/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Movie-Info.plist4300911832#616"    cd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility Movie-Info.plist -genpkginfo /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app/Info.plist0#
+
+CProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie_Prefix-dksedcxphazbbmctcxldbeysfziv/Movie_Prefix.pch.gch Movie_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292104399.550185
+e292104400.609949
+r1
+xProcessPCH
+x/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie_Prefix-dksedcxphazbbmctcxldbeysfziv/Movie_Prefix.pch.gch
+xMovie_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Movie_Prefix.pch292104399#292104400#0(0"0(0#0#82"/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Movie_Prefix.pch4300911832#2045"    cd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-generated-files.hmap -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-own-target-headers.hmap -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-all-target-headers.hmap -iquote /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/Movie-project-headers.hmap -F/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/include -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/DerivedSources/i386 -I/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Movie.build/Debug-iphonesimulator/Movie.build/DerivedSources -c /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/Movie_Prefix.pch -o /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Movie_Prefix-dksedcxphazbbmctcxldbeysfziv/Movie_Prefix.pch.gch0#
+
+CTouch /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app
+s292104401.118237
+e292104401.155316
+r1
+xTouch
+x/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app
+lSLF07#2@109"Touch /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app292104401#292104401#0(0"0(0#0#0"4300911832#392"    cd /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Movie/build/Debug-iphonesimulator/Movie.app0#
+

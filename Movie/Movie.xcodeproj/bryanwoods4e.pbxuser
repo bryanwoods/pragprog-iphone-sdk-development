@@ -6,10 +6,28 @@
 			7745C4B01169271200D56CE4 /* Movie */,
 		);
 	};
+	28D7ACF60DDB3853001CB0EB /* MovieViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {485, 402}}";
+			sepNavSelRange = "{241, 0}";
+			sepNavVisRange = "{0, 249}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MovieViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 936}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{0, 707}";
+		};
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 7745C4B01169271200D56CE4 /* Movie */;
+		activeSDKPreference = iphonesimulator3.2;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* Movie */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Movie */,
+		);
 		codeSenseManager = 7745C4C61169271C00D56CE4 /* Code sense */;
 		executables = (
 			7745C4B01169271200D56CE4 /* Movie */,
@@ -20,7 +38,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					307,
 					20,
 					48.16259765625,
 					43,
@@ -39,6 +57,16 @@
 			};
 			PBXPerProjectTemplateStateSaveDate = 292103954;
 			PBXWorkspaceStateSaveDate = 292103954;
+		};
+		perUserProjectItems = {
+			7745C4D3116928ED00D56CE4 /* PBXTextBookmark */ = 7745C4D3116928ED00D56CE4 /* PBXTextBookmark */;
+			7745C4D4116928ED00D56CE4 /* PBXTextBookmark */ = 7745C4D4116928ED00D56CE4 /* PBXTextBookmark */;
+			7745C4D5116928ED00D56CE4 /* PBXTextBookmark */ = 7745C4D5116928ED00D56CE4 /* PBXTextBookmark */;
+			7745C4D81169297C00D56CE4 /* XCBuildMessageTextBookmark */ = 7745C4D81169297C00D56CE4 /* XCBuildMessageTextBookmark */;
+			7745C4D91169297C00D56CE4 /* PBXTextBookmark */ = 7745C4D91169297C00D56CE4 /* PBXTextBookmark */;
+			7745C4DC1169298200D56CE4 /* XCBuildMessageTextBookmark */ = 7745C4DC1169298200D56CE4 /* XCBuildMessageTextBookmark */;
+			7745C4DD1169298200D56CE4 /* PBXTextBookmark */ = 7745C4DD1169298200D56CE4 /* PBXTextBookmark */;
+			7745C4DE1169298B00D56CE4 /* PBXTextBookmark */ = 7745C4DE1169298B00D56CE4 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 7745C4C51169271C00D56CE4 /* Source Control */;
 		userBuildSettings = {
@@ -60,6 +88,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -84,5 +113,83 @@
 	7745C4C61169271C00D56CE4 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	7745C4D3116928ED00D56CE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MovieViewController.h */;
+		name = "MovieViewController.h: 15";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 249;
+		vrLoc = 0;
+	};
+	7745C4D4116928ED00D56CE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MovieViewController.m */;
+		name = "MovieViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 660;
+		vrLoc = 0;
+	};
+	7745C4D5116928ED00D56CE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MovieViewController.m */;
+		name = "MovieViewController.m: 14";
+		rLen = 0;
+		rLoc = 263;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	7745C4D81169297C00D56CE4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected expression before ':' token";
+		fRef = 28D7ACF70DDB3853001CB0EB /* MovieViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 13;
+		rType = 1;
+	};
+	7745C4D91169297C00D56CE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MovieViewController.m */;
+		name = "MovieViewController.m: 14";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 0;
+	};
+	7745C4DC1169298200D56CE4 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected expression before ':' token";
+		fRef = 28D7ACF70DDB3853001CB0EB /* MovieViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 13;
+		rType = 1;
+	};
+	7745C4DD1169298200D56CE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MovieViewController.m */;
+		name = "MovieViewController.m: 14";
+		rLen = 0;
+		rLoc = 263;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	7745C4DE1169298B00D56CE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MovieViewController.m */;
+		name = "MovieViewController.m: 14";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 0;
 	};
 }
