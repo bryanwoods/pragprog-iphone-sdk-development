@@ -10,6 +10,21 @@
 
 @implementation Hello_UserViewController
 
+- (void) sayHello: (id) sender {
+	NSString *userName = nameField.text;
+	NSString *helloMessage = [[NSString alloc]
+							  initWithFormat: @"Hello %@", userName];
+	helloLabel.text = helloMessage;
+	[helloMessage release];
+	nameField.text = @"";
+	[nameField resignFirstResponder];
+}
+
+- (BOOL)textFieldShouldReturn:(UITextField *)textField {
+	[textField resignFirstResponder];
+	return YES;
+}
+
 
 
 /*
@@ -59,6 +74,8 @@
 
 
 - (void)dealloc {
+	[helloLabel release];
+	[nameField release];
     [super dealloc];
 }
 

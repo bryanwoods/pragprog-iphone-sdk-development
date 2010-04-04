@@ -8,9 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
-@interface Hello_UserViewController : UIViewController {
+@interface Hello_UserViewController : UIViewController <UITextFieldDelegate> {
+	
+	IBOutlet UILabel *helloLabel;
+	IBOutlet UITextField *nameField;
 
 }
+
+- (IBAction) sayHello: (id) sender;
 
 @end
 

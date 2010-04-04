@@ -1,0 +1,228 @@
+THello User
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B79A1A50000000000000110
+t1266262437
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004BA82B910000000000000110
+t1269312401
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/Classes/Hello_UserAppDelegate.h
+c000000004BB8C7E100000000000001EF
+t1270400993
+s495
+i<UIKit/UIKit.h>
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/Classes/Hello_UserAppDelegate.m
+c000000004BB8C7E100000000000002B0
+t1270400993
+s688
+i"Hello_UserAppDelegate.h"
+i"Hello_UserViewController.h"
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/Classes/Hello_UserViewController.h
+c000000004BB8C8FB000000000000015D
+t1270401275
+s349
+i<UIKit/UIKit.h>
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/Classes/Hello_UserViewController.m
+c000000004BB8D74100000000000006DE
+t1270404929
+s1758
+i"Hello_UserViewController.h"
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/Hello_UserViewController.xib
+c000000004BB8CBA900000000000058C8
+t1270401961
+s22728
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/Hello_User_Prefix.pch
+c000000004BB8C7E100000000000000BD
+t1270400993
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/MainWindow.xib
+c000000004BB8C7E1000000000000266D
+t1270400993
+s9837
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app.dSYM
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app/Hello User
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app/Hello_UserViewController.nib
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app/Info.plist
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app/MainWindow.nib
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app/PkgInfo
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app/ResourceRules.plist
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Hello User.build/Debug-iphoneos/Hello User.build/Objects-normal/armv6/Hello User.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Hello User.build/Debug-iphoneos/Hello User.build/Objects-normal/armv6/Hello_UserAppDelegate.o
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Hello User.build/Debug-iphoneos/Hello User.build/Objects-normal/armv6/Hello_UserViewController.o
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Hello User.build/Debug-iphoneos/Hello User.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/main.m
+c000000004BB8C7E1000000000000016A
+t1270400993
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_User_Prefix-arrrhzbmenfenxdknpmamuhmtctm/Hello_User_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_User_Prefix-dzozhzrorsmptfccbzbcyqgtypar/Hello_User_Prefix.pch.gch
+t2
+s0
+
+NHello_User-Info.plist
+c000000004BB8C7E1000000000000038D
+t1270400993
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292097731#292097731#0(98"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any identity in any profile1(4@90"Code Sign error: The identity 'iPhone Developer' doesn't match any identity in any profile292097731#18446744073709551615#0#0(1@0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC "build/Hello User.build/Debug-iphoneos/Hello User.build/Objects-normal/armv6/Hello_UserAppDelegate.o" "/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/Classes/Hello_UserAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Hello User.build/Debug-iphoneos/Hello User.build/Objects-normal/armv6/Hello_UserViewController.o" "/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/Classes/Hello_UserViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Hello User.build/Debug-iphoneos/Hello User.build/Objects-normal/armv6/main.o" "/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/Hello_UserViewController.xib"
+r0
+
+CCompileXIB "/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/MainWindow.xib"
+r0
+
+CCpResource "build/Debug-iphoneos/Hello User.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+r0
+
+CCpResource "build/Debug-iphoneos/Hello User.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app.dSYM" "/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app/Hello User"
+r0
+
+CLd "/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app/Hello User" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app/Info.plist" Hello_User-Info.plist
+r0
+
+CProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_User_Prefix-arrrhzbmenfenxdknpmamuhmtctm/Hello_User_Prefix.pch.gch Hello_User_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/1V/1V8Kw+LEHUCKonqJ-dp3oE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_User_Prefix-dzozhzrorsmptfccbzbcyqgtypar/Hello_User_Prefix.pch.gch Hello_User_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/build/Debug-iphoneos/Hello User.app"
+r0
+
