@@ -17,5 +17,8 @@
 
 - (IBAction) sayHello: (id) sender;
 
+@property (nonatomic, retain) UILabel *helloLabel;
+@property (nonatomic, retain) UITextField *nameField;
+
 @end
 

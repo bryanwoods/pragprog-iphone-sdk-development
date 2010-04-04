@@ -328,11 +328,11 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>7745C4A61169136E00D56CE4</string>
+										<string>7745C4AB1169247F00D56CE4</string>
 										<key>history</key>
 										<array>
-											<string>7745C4A41169136E00D56CE4</string>
-											<string>7745C4A51169136E00D56CE4</string>
+											<string>7745C4A91169247F00D56CE4</string>
+											<string>7745C4AA1169247F00D56CE4</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -530,10 +530,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>77F7D78B1168FF66004B1E64</string>
 		<string>/Users/bryanwoods4e/Desktop/pragprog-iphone-sdk-development/Hello User/Hello User.xcodeproj</string>
-		<string>1C78EAAD065D492600B07095</string>
 	</array>
 	<key>WindowString</key>
 	<string>720 60 720 818 0 0 1440 878 </string>
@@ -915,7 +915,7 @@
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>Identifier</key>

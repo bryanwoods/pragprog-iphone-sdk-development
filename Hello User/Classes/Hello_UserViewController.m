@@ -10,6 +10,8 @@
 
 @implementation Hello_UserViewController
 
+@synthesize helloLabel, nameField;
+
 - (void) sayHello: (id) sender {
 	NSString *userName = nameField.text;
 	NSString *helloMessage = [[NSString alloc]
