@@ -16,6 +16,8 @@
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* MovieViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* MovieViewController.m */; };
 		7745C4E2116929F900D56CE4 /* Movie.m in Sources */ = {isa = PBXBuildFile; fileRef = 7745C4E1116929F900D56CE4 /* Movie.m */; };
+		7745C50E11698F2A00D56CE4 /* MovieEditorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7745C50D11698F2A00D56CE4 /* MovieEditorViewController.m */; };
+		7745C5101169976100D56CE4 /* MovieEditorViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7745C50F1169976100D56CE4 /* MovieEditorViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +35,9 @@
 		32CA4F630368D1EE00C91783 /* Movie_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Movie_Prefix.pch; sourceTree = "<group>"; };
 		7745C4E0116929F900D56CE4 /* Movie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Movie.h; sourceTree = "<group>"; };
 		7745C4E1116929F900D56CE4 /* Movie.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Movie.m; sourceTree = "<group>"; };
+		7745C50C11698F2A00D56CE4 /* MovieEditorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovieEditorViewController.h; sourceTree = "<group>"; };
+		7745C50D11698F2A00D56CE4 /* MovieEditorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MovieEditorViewController.m; sourceTree = "<group>"; };
+		7745C50F1169976100D56CE4 /* MovieEditorViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MovieEditorViewController.xib; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Movie-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Movie-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -59,6 +64,8 @@
 				28D7ACF70DDB3853001CB0EB /* MovieViewController.m */,
 				7745C4E0116929F900D56CE4 /* Movie.h */,
 				7745C4E1116929F900D56CE4 /* Movie.m */,
+				7745C50C11698F2A00D56CE4 /* MovieEditorViewController.h */,
+				7745C50D11698F2A00D56CE4 /* MovieEditorViewController.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -98,6 +105,7 @@
 				2899E5210DE3E06400AC0155 /* MovieViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* Movie-Info.plist */,
+				7745C50F1169976100D56CE4 /* MovieEditorViewController.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -156,6 +164,7 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* MovieViewController.xib in Resources */,
+				7745C5101169976100D56CE4 /* MovieEditorViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -170,6 +179,7 @@
 				1D3623260D0F684500981E51 /* MovieAppDelegate.m in Sources */,
 				28D7ACF80DDB3853001CB0EB /* MovieViewController.m in Sources */,
 				7745C4E2116929F900D56CE4 /* Movie.m in Sources */,
+				7745C50E11698F2A00D56CE4 /* MovieEditorViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
